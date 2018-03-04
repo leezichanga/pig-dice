@@ -1,4 +1,4 @@
-body{
+body {
 	font-family: 'sans serif', Open Sans;
     background-image: url(../images/dice.jpg);
 		background-repeat: repeat;
@@ -6,7 +6,7 @@ body{
 }
 .jumbotron {
 	background: transparent;
-color: #c7cce0;
+color: #a0b779;
 }
 .player-console {
   display: none;
@@ -23,8 +23,8 @@ input[type=text], select {
 	background-color: #ccc;
 }
 .btn{
-    background-color: 	#3c424c;
-    color: #ebefd7;
+    background-color: 	#a2a3a1;
+    color: #1c3368;
     font-size: 18px;
     padding: 12px 20px;
     margin: 8px 0;
@@ -37,5 +37,5 @@ h1 {
   text-align: center;
 }
 .player-console {
-	color: green;
+	color: #4dd6aa;
 }
